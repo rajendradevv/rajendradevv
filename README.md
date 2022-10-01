@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendradevv&label=Profile%20views&color=0e75b6&style=flat" alt="rajendradevv" /> </p>
 
-https://twitter.com/GLlTCH3R
 
 
-<p align="left"> <a href="GLlTCH3R" target="blank">
+
+<p align="left"> <a href="https://twitter.com/GLlTCH3R" target="blank">
 <img src="https://img.shields.io/twitter/follow/GLlTCH3R?logo=twitter&style=for-the-badge" alt="GLlTCH3R" /></a> </p>
 
 - 🔭 I’m currently working on **myself**
