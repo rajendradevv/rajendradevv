@@ -20,7 +20,7 @@ https://twitter.com/GLlTCH3R
 
 - 📫 How to reach me **itsmohapatraa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Bi_yJQ3k402t80nRXdTwVQcHe0MWR0O/view?usp=sharing](https://drive.google.com/file/d/1-Bi_yJQ3k402t80nRXdTwVQcHe0MWR0O/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1-Bi_yJQ3k402t80nRXdTwVQcHe0MWR0O/view?usp=sharing)
 
 - ⚡ Fun fact **Eat🍴Sleep💤Code👨‍💻repeat**
 
