@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajendra Kumar Mohapatra</h1>
 <h3 align="center">I’m a Front-End Developer located in Odisha , India.</h3>
-<img align="right" alt="coding" src="![image](https://user-images.githubusercontent.com/95306655/193409587-801ed79b-a9c0-4ae0-9f8e-7f92c89bd56a.png)
+<img align="right" alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendradevv&label=Profile%20views&color=0e75b6&style=flat" alt="rajendradevv" /> </p>
