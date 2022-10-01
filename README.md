@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajendradevv" alt="rajendradevv" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/glitch3r" target="blank"><img src="https://img.shields.io/twitter/follow/glitch3r?logo=twitter&style=for-the-badge" alt="glitch3r" /></a> </p>
+<p align="left"> <a href="https://twitter.com/glitch3r" target="blank"><img src="https://img.shields.io/twitter/follow/GLITCH3R?logo=twitter&style=for-the-badge" alt="glitch3r" /></a> </p>
 
 - 🔭 I’m currently working on **myself**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/glitch3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glitch3r" height="30" width="40" /></a>
+<a href="https://twitter.com/GLITCH3R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glitch3r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajendra-kumar-mohapatra-1441b114b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajendra-kumar-mohapatra-1441b114b" height="30" width="40" /></a>
 <a href="https://instagram.com/rajendradevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajendradevv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rajendra kumar mohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajendra kumar mohapatra" height="30" width="40" /></a>
