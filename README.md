@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/glitch3r" target="blank"><img src="https://img.shields.io/twitter/follow/GLITCH3R?logo=twitter&style=for-the-badge" alt="glitch3r" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GLITCH3R" target="blank"><img src="https://img.shields.io/twitter/follow/GLITCH3R?logo=twitter&style=for-the-badge" alt="glitch3r" /></a> </p>
 
 - 🔭 I’m currently working on **myself**
 
