@@ -12,7 +12,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/GLlTCH3R" target="blank">
-<img src="https://img.shields.io/twitter/follow/GLlTCH3R?logo=twitter&style=for-the-badge" alt="GLlTCH3R" /></a> </p>
+<img src="https://img.shields.io/twitter/follow/GLlTCH3R?logo=twitter&style=for-the-badge" alt="GLITCH3R" /></a> </p>
 
 - 👽 I’m currently working on **myself**
 
