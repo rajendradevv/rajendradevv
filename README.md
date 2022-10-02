@@ -46,13 +46,7 @@
 <h3 align="left">My Github Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajendradevv&show_icons=true&locale=en&layout=compact" alt="rajendradevv" /></p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendradevv&show_icons=true&locale=en" alt="rajendradevv" /></p>
 <br>
 <p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendradevv&" alt="rajendradevv" /></p>
