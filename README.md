@@ -1,25 +1,3 @@
-
-
-</head>
-<body margin: 0;
-            padding: 0;>
-    <div id="vanta-canvas" width:100%;
-            height: 100vh;></div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.145.0/three.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanta/0.5.24/vanta.clouds.min.js"></script>
-    <script type="text/javascript"></script>
-    <script>
-    VANTA.CLOUDS ({
-      el: "#vanta-canvas",
-      mouseControls: true,
-      touchControls: true,
-      gyroControls: false,
-      minHeight: 200.00,
-      minWidth: 200.00
-    })
-    </script>
-</body>
-
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/95306655/193441951-3fb5879f-decf-4310-b9da-d1c59fd58585.png" width =auto >
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Rajendra Kumar Mohapatra</h1>
 <img align="right" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif" width =auto>
