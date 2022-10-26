@@ -13,7 +13,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/GLlTCH3R" target="blank">
-<img src="https://img.shields.io/twitter/follow/GLlTCH3R?logo=twitter&style=for-the-badge" alt="GLITCH3R" /></a> </p>
+<img src="https://img.shields.io/youtube/channel/subscribers/UCzIoI5D8RTf9a_67I_BmfvQ?label=YouTube&style=social" alt="Rajendra Kumar Mohapatra" /></a> </p>
 
 - 👽 I’m currently working on **myself**
 
